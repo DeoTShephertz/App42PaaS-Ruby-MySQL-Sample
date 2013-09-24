@@ -1,7 +1,7 @@
 adapter: mysql2
 encoding: utf8
 reconnect: false
-host: 54.213.93.154
+host: 10.0.2.12
 port: 54661
 database: demo_db
 username: aiq43ostbsup8ss0
