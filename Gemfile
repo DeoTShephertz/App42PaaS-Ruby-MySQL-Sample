@@ -5,5 +5,4 @@ gem "rack"
 gem 'erubis'
 gem 'mysql2'
 gem 'activerecord'
-gem 'json', '1.8.0' 
-gem "thin"
+gem 'json', '1.8.0'
